@@ -9,7 +9,7 @@ const Footer = () => {
   return (
     <footer>
       <div className='red-container'>
-        <p>Lorem ipsum dolor sit amet</p>
+        <p>Johaymen Alvarez - Juan Pablo Cediel</p>
       </div>
 
       <div className="social">
